@@ -1,0 +1,19 @@
+{
+  "name": "stylelint-config-yomed",
+  "version": "0.0.0",
+  "description": "personal stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yomed/stylelint-config-yomed.git"
+  },
+  "author": "Yoni Medoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yomed/stylelint-config-yomed/issues"
+  },
+  "homepage": "https://github.com/yomed/stylelint-config-yomed#readme"
+}
