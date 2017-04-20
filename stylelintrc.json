@@ -20,6 +20,14 @@
         "no-empty-source": true,
         "no-eol-whitespace": true,
         "no-extra-semicolons": true,
-        "number-leading-zero": "always"
+        "number-leading-zero": "always",
+        "number-max-precision": 3,
+        "number-no-trailing-zeros": true,
+        "string-no-newline": true,
+        "string-quotes": "single",
+        "value-keyword-case": "lower",
+        "property-case": "lower",
+        "declaration-bang-space-after": "never",
+        "declaration-bang-space-before": "always"
     }
 }
